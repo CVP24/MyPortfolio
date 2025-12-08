@@ -2,7 +2,6 @@
   "name": "porfolio-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://CVP24.github.io/MyPortfolio",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
