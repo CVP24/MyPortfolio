@@ -1,4 +1,7 @@
 {
+  "env": {
+    "PUBLIC_URL": "/"
+  },
   "buildCommand": "npm run build",
   "outputDirectory": "build",
   "rewrites": [
